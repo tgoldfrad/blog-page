@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\Tova Goldfrad\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB617615-7DB7-4256-B5C4-5D5E92222828}|Backend\\Backend.csproj|s:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\tova goldfrad\\backend\\backend\\data\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB617615-7DB7-4256-B5C4-5D5E92222828}|Backend\\Backend.csproj|solutionrelative:backend\\data\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB617615-7DB7-4256-B5C4-5D5E92222828}|Backend\\Backend.csproj|s:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\tova goldfrad\\backend\\backend\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB617615-7DB7-4256-B5C4-5D5E92222828}|Backend\\Backend.csproj|solutionrelative:backend\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB617615-7DB7-4256-B5C4-5D5E92222828}|Backend\\Backend.csproj|s:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\tova goldfrad\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB617615-7DB7-4256-B5C4-5D5E92222828}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB617615-7DB7-4256-B5C4-5D5E92222828}|Backend\\Backend.csproj|s:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\tova goldfrad\\backend\\backend\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB617615-7DB7-4256-B5C4-5D5E92222828}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\Tova Goldfrad\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "S:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\Tova Goldfrad\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:22:02.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "S:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\Tova Goldfrad\\Backend\\Backend\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\PostsController.cs",
+              "ToolTip": "S:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\Tova Goldfrad\\Backend\\Backend\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:44:52.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "S:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\Tova Goldfrad\\Backend\\Backend\\Data\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\PostRepository.cs",
+              "ToolTip": "S:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\Tova Goldfrad\\Backend\\Backend\\Data\\PostRepository.cs",
+              "RelativeToolTip": "Backend\\Data\\PostRepository.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAQwL8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:42:16.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "S:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\Tova Goldfrad\\Backend\\Backend\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Post.cs",
+              "ToolTip": "S:\\\u05D8\u05D5\u05D1\u05D4 \u05D2\u05D5\u05DC\u05D3\u05E4\u05E8\u05D3- \u05DE\u05D1\u05D7\u05DF \u05D3\u05E2\u05EA\\Tova Goldfrad\\Backend\\Backend\\Models\\Post.cs",
+              "RelativeToolTip": "Backend\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:40:40.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
