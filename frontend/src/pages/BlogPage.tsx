@@ -27,7 +27,7 @@ const BlogPage = () => {
   const fetchPosts = async () => {
     try {
       setLoading(true);
-      const res = await axios.get<Post[]>("http://localhost:5178/api/posts", {
+      const res = await axios.get<Post[]>("https://blog-page-server-gwhb.onrender.com/api/posts", {
         params: { search: debouncedSearch, category, page, pageSize },
       });
       setPosts((prev) => (page === 1 ? res.data : [...prev, ...res.data]));
@@ -42,7 +42,7 @@ const BlogPage = () => {
   const fetchCategories = async () => {
     try {
       const res = await axios.get<string[]>(
-        "http://localhost:5178/api/posts/categories"
+        "https://blog-page-server-gwhb.onrender.com/api/posts/categories"
       );
       setCategories(res.data);
     } catch (err) {

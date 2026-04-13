@@ -6,7 +6,6 @@ function App() {
       return (
     <BrowserRouter>
       <Routes>
-        {/* עמוד הבלוג הראשי */}
         <Route path="/" element={<BlogPage />} />
       </Routes>
     </BrowserRouter>
